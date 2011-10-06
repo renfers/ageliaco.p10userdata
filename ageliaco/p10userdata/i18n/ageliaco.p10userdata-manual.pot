@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.examples.userdata\n"
+"POT-Creation-Date: 2010-02-08 10:25-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Domain: collective.examples.userdata\n"
+
+# Duplicate from Plone translations, so we can use
+# collective.examples.userdata to translate all fields, incliding those from
+# Plone. This is admittedly a workaround.
+msgid "label_email"
+msgstr "E-mail"
+
+#: userdataschema.py:22
+msgid "label_firstname"
+msgstr ""
+
+#: userdataschema.py:23
+msgid "help_firstname"
+msgstr ""
+
+#: userdataschema.py:28
+msgid "label_lastname"
+msgstr ""
+
+#: userdataschema.py:29
+msgid "help_lastname"
+msgstr ""
+
+#: userdataschema.py:34
+msgid "label_country"
+msgstr ""
+
+#: userdataschema.py:35
+msgid "help_country"
+msgstr ""
+
+#: userdataschema.py:40
+msgid "label_gender"
+msgstr ""
+
+#: userdataschema.py:41
+msgid "help_gender"
+msgstr ""
+
+#: userdataschema.py:45
+msgid "Male"
+msgstr ""
+
+#: userdataschema.py:46
+msgid "Female"
+msgstr ""
+
+
+#: userdataschema.py:44
+msgid "unknown"
+msgstr ""
+
+
+#: userdataschema.py:50
+msgid "label_birthdate"
+msgstr ""
+
+
+#: userdataschema.py:51
+msgid "help_birthdate"
+msgstr ""
+
+#: userdataschema.py:56
+msgid "label_city"
+msgstr ""
+
+
+#: userdataschema.py:57
+msgid "help_city"
+msgstr ""
+
+#: userdataschema.py:62
+msgid "label_phone"
+msgstr ""
+
+#: userdataschema.py:63
+msgid "help_phone"
+msgstr ""
+
+#: userdataschema.py:68
+msgid "label_newsletter"
+msgstr ""
+
+#: userdataschema.py:69
+msgid "help_newsletter"
+msgstr ""
+
+#: userdataschema.py:75
+msgid "label_accept"
+msgstr ""
+
+#: userdataschema.py:76
+msgid "help_accept"
+msgstr ""
+
+
+#: userdataschema.py:
+msgid ""
+msgstr ""
+
+

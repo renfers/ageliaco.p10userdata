@@ -1,0 +1,15 @@
+README.txt
+setup.cfg
+setup.py
+ageliaco/__init__.py
+ageliaco.p10userdata.egg-info/PKG-INFO
+ageliaco.p10userdata.egg-info/SOURCES.txt
+ageliaco.p10userdata.egg-info/dependency_links.txt
+ageliaco.p10userdata.egg-info/entry_points.txt
+ageliaco.p10userdata.egg-info/namespace_packages.txt
+ageliaco.p10userdata.egg-info/not-zip-safe
+ageliaco.p10userdata.egg-info/paster_plugins.txt
+ageliaco.p10userdata.egg-info/requires.txt
+ageliaco.p10userdata.egg-info/top_level.txt
+ageliaco/p10userdata/__init__.py
+ageliaco/p10userdata/tests.py

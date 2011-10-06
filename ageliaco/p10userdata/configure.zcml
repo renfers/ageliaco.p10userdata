@@ -1,0 +1,17 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.examples.userdata">
+
+  <five:registerPackage package="." initialize=".initialize" />
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Enhanced user data"
+      directory="profiles/default"
+      description='Adds user data fields to the registration form.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>
