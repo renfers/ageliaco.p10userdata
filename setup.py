@@ -15,8 +15,8 @@ setup(name='ageliaco.p10userdata',
         "Programming Language :: Python",
         ],
       keywords='',
-      author='',
-      author_email='',
+      author='Serge Renfer',
+      author_email='serge.renfer@gmail.com',
       url='http://svn.plone.org/svn/collective/',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
@@ -26,6 +26,7 @@ setup(name='ageliaco.p10userdata',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+          'plone.app.ldap',
       ],
       entry_points="""
       # -*- Entry points: -*-
