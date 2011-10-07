@@ -12,4 +12,6 @@ ageliaco.p10userdata.egg-info/paster_plugins.txt
 ageliaco.p10userdata.egg-info/requires.txt
 ageliaco.p10userdata.egg-info/top_level.txt
 ageliaco/p10userdata/__init__.py
+ageliaco/p10userdata/adapter.py
 ageliaco/p10userdata/tests.py
+ageliaco/p10userdata/userdataschema.py

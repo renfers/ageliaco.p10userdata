@@ -1,7 +1,7 @@
 from zope.interface import Interface, implements
 from zope import schema
 
-from collective.examples.userdata import _
+from ageliaco.p10userdata import _
 from plone.app.users.userdataschema import IUserDataSchemaProvider
 from plone.app.users.userdataschema import IUserDataSchema
 
